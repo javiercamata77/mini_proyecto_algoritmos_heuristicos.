@@ -1,0 +1,10 @@
+D:\Documentos\Ing. de Sistemas\Inteligencia Artificial\algoritmo asterisco\algoritmo asterisco\algoritmo asterisco\bin\Debug\algoritmo asterisco.exe.config
+D:\Documentos\Ing. de Sistemas\Inteligencia Artificial\algoritmo asterisco\algoritmo asterisco\algoritmo asterisco\bin\Debug\algoritmo asterisco.exe
+D:\Documentos\Ing. de Sistemas\Inteligencia Artificial\algoritmo asterisco\algoritmo asterisco\algoritmo asterisco\bin\Debug\algoritmo asterisco.pdb
+D:\Documentos\Ing. de Sistemas\Inteligencia Artificial\algoritmo asterisco\algoritmo asterisco\algoritmo asterisco\obj\Debug\algoritmo asterisco.csprojAssemblyReference.cache
+D:\Documentos\Ing. de Sistemas\Inteligencia Artificial\algoritmo asterisco\algoritmo asterisco\algoritmo asterisco\obj\Debug\algoritmo_asterisco.FormMatriz.resources
+D:\Documentos\Ing. de Sistemas\Inteligencia Artificial\algoritmo asterisco\algoritmo asterisco\algoritmo asterisco\obj\Debug\algoritmo_asterisco.Properties.Resources.resources
+D:\Documentos\Ing. de Sistemas\Inteligencia Artificial\algoritmo asterisco\algoritmo asterisco\algoritmo asterisco\obj\Debug\algoritmo asterisco.csproj.GenerateResource.cache
+D:\Documentos\Ing. de Sistemas\Inteligencia Artificial\algoritmo asterisco\algoritmo asterisco\algoritmo asterisco\obj\Debug\algoritmo asterisco.csproj.CoreCompileInputs.cache
+D:\Documentos\Ing. de Sistemas\Inteligencia Artificial\algoritmo asterisco\algoritmo asterisco\algoritmo asterisco\obj\Debug\algoritmo asterisco.exe
+D:\Documentos\Ing. de Sistemas\Inteligencia Artificial\algoritmo asterisco\algoritmo asterisco\algoritmo asterisco\obj\Debug\algoritmo asterisco.pdb
